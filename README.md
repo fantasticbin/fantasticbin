@@ -15,24 +15,24 @@
 
 ### 🔧 ~~Full Stack Developer~~ 啥也不会
 
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](#)
-[![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=goland&logoColor=white)](#)
-[![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/-PHP-7A86B8?style=flat&logo=php&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/-Go-79D4FD?style=flat&logo=goland&logoColor=white)](#)
+[![Vue](https://img.shields.io/badge/-Vue-42B883?style=flat&logo=vuedotjs&logoColor=white)](#)
 
-[![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat&logo=mysql&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](#)
-[![ClickHouse](https://img.shields.io/badge/-ClickHouse-217346?style=flat&logo=clickhouse&logoColor=white)](#)
-[![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-007396?style=flat&logo=elasticsearch&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-001E2B?style=flat&logo=mongodb&logoColor=white)](#)
+[![ClickHouse](https://img.shields.io/badge/-ClickHouse-FCFF74?style=flat&logo=clickhouse&logoColor=white)](#)
+[![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-343741?style=flat&logo=elasticsearch&logoColor=white)](#)
 
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-003545?style=flat&logo=typescript&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](#)
 
-[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-00c8f9?style=flat&logo=rabbitmq&logoColor=white)](#)
-[![Kafka](https://img.shields.io/badge/-Kafka-0dddb8?style=flat&logo=apachekafka&logoColor=white)](#)
-[![Consul](https://img.shields.io/badge/-Consul-B7472A?style=flat&logo=consul&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/-Docker-2B579A?style=flat&logo=docker&logoColor=white)](#)
+[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)](#)
+[![Kafka](https://img.shields.io/badge/-Kafka-363D3F?style=flat&logo=apachekafka&logoColor=white)](#)
+[![Consul](https://img.shields.io/badge/-Consul-E03875?style=flat&logo=consul&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/-Docker-086DD7?style=flat&logo=docker&logoColor=white)](#)
 
 *所有技能点皆为`Lv.1`*
 
