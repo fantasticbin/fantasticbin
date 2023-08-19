@@ -1,7 +1,6 @@
 <div href="#">
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=fantasticbin&theme=buefy&locale=cn&hide_border=true&include_all_commits=true&show_icons=true" />
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fantasticbin&theme=buefy&locale=cn&hide_border=true&layout=compact&langs_count=10&custom_title=这货都写过啥" />
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=fantasticbin&theme=buefy&locale=cn&hide_border=true&layout=compact&langs_count=10&custom_title=这货最近%207%20天写了啥&range=last_7_days" />
   <img width="50%" align="right" src="https://count.getloli.com/get/@fantasticbin?theme=gelbooru" alt="fantasticbin" />
 </div>
 
