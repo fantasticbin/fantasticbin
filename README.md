@@ -19,6 +19,7 @@
 [![Go](https://img.shields.io/badge/-Go-79D4FD?style=flat&logo=goland&logoColor=white)](#)
 [![Vue](https://img.shields.io/badge/-Vue-42B883?style=flat&logo=vuedotjs&logoColor=white)](#)
 
+[![Redis](https://img.shields.io/badge/-Redis-DC382C?style=flat&logo=redis&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-001E2B?style=flat&logo=mongodb&logoColor=white)](#)
 [![ClickHouse](https://img.shields.io/badge/-ClickHouse-FCFF74?style=flat&logo=clickhouse&logoColor=white)](#)
