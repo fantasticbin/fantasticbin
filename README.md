@@ -4,7 +4,7 @@
   <img width="50%" align="right" src="https://count.getloli.com/get/@fantasticbin?theme=gelbooru" alt="fantasticbin" />
 </div>
 
-### 👋 This is Fantasticbin!
+### 👋 This is fantasticbin!
 ##### a full stack developer, currently full-time Go development.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/fantasticbin)
