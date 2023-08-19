@@ -30,10 +30,11 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](#)
 
+[![Docker](https://img.shields.io/badge/-Docker-086DD7?style=flat&logo=docker&logoColor=white)](#)
+[![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)](#)
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)](#)
 [![Kafka](https://img.shields.io/badge/-Kafka-363D3F?style=flat&logo=apachekafka&logoColor=white)](#)
 [![Consul](https://img.shields.io/badge/-Consul-E03875?style=flat&logo=consul&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/-Docker-086DD7?style=flat&logo=docker&logoColor=white)](#)
 
 *所有技能点皆为`Lv.1`*
 
