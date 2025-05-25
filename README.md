@@ -46,7 +46,7 @@
 
 #### 开源软件
 
-敬请期待~
+[![QueryBuilder](https://github-readme-stats.vercel.app/api/pin/?username=fantasticbin&repo=QueryBuilder)](https://github.com/fantasticbin/QueryBuilder)
 
 #### 随写练手
 
